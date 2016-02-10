@@ -1,13 +1,13 @@
 ----------------------------------------------------------------------------------
--- ********* ULX2S-FPGA Platform example - Digital FM Radio ********
+-- ********* ULX2S-FPGA Platform example - RGB LED example ********
 -- 
--- Top-level wrapper for linking the FM Radio example to the 
+-- Top-level wrapper for linking the WS2812B RGB led strip driever to the
 -- ULX2S Platform.
 --
--- Creation Date: 25th Dec 2015
+-- Creation Date: 20th Jan 2016
 -- Author: Emard
 --
--- Copyright (C) 2015 Emard
+-- Copyright (C) 2016 Emard
 -- 
 -- This source file may be used and distributed without 
 -- restriction provided that this copyright statement is not 
